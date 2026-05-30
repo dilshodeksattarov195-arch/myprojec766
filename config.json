@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionderify",
+        "uuid": 4916188,
+        "checksum": "a5q1n8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
